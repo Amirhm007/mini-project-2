@@ -1,0 +1,4 @@
+@import "tailwindcss";
+body {
+  @apply bg-gray-800; /* یا کلاس bg-gray-800 را مستقیما به تگ body در index.html اضافه کنید */
+}
